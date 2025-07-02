@@ -24,8 +24,6 @@ Agents are modular, each with a single responsibility. The coordinator handles a
 - **CrewAI** – Agent orchestration
 - **FastAPI** *(optional for future UI)*
 - **Docker** – For deployment
-- **OpenAI GPT** *(optional for integration)*
-
 ---
 
 ## 📦 Installation
